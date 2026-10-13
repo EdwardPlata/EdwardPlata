@@ -16,4 +16,4 @@ Python · SQL · dbt · Dagster · dlt · Postgres · DuckDB · Next.js · Supab
 
 ### Elsewhere
 
-[X / @eplata_ds](https://x.com/eplata_ds)
+[![X](https://img.shields.io/badge/X-@Eddgie__AI-000000?logo=x&logoColor=white)](https://x.com/Eddgie_AI) [![LinkedIn](https://img.shields.io/badge/LinkedIn-edwardplata-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edwardplata/) [![Web](https://img.shields.io/badge/web-datablock.pro-4F46E5)](https://datablock.pro)
